@@ -26,7 +26,7 @@ It's possible to mint the chat as NFT on Polygon Mumbai (testnet).
 
 At this stage the source code of the AI side is not shared publically for security and integrity of the app. 
 
-The AI is a zephyr-7b-beta model which is a finetuned version of Mistral-7B-v0.1. 
+The AI is a zephyr-7b-beta model.
 
 ### Near term development
 
